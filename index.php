@@ -26,6 +26,7 @@ require_once "functions.php";
             <a href="server.php">Form</a>
             <hr>
         </header>
+        <!-- Form Section -->
         <section>
             <div class="row justify-content-center">
                 <div class="col-12 col-md-8 col-lg-6">
@@ -102,7 +103,9 @@ require_once "functions.php";
             </div>
 
         </section>
+        <!-- /Form Section -->
 
+        <!-- Grid Section -->
         <section>
             <h1>Benvenuto nell'elenco dei disci</h1>
             <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-3">
@@ -129,6 +132,7 @@ require_once "functions.php";
             </div>
 
         </section>
+        <!-- /Grid Section -->
     </div>
 
 </body>
